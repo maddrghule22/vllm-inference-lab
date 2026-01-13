@@ -1,0 +1,7 @@
+openai==1.99.2
+streamlit
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+
